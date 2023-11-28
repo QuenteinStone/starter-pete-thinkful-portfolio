@@ -95,3 +95,7 @@ article p {
 .header-container {
   align-items: center;
 }
+
+.p-left {
+  text-align: left;
+}
